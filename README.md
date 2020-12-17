@@ -11,6 +11,7 @@ Toolbox:
 * Java 1.8
 * Java level - 8
 * Emaulator name - AnroidEmulator (Please, give this name to your device or change the name in `TestHelpers.java` in the `openApplication()` method)
+* Appium Server
 
 To run the tests execute: `mvn clean test` or right click `AllTests.xml -> Run`
 
