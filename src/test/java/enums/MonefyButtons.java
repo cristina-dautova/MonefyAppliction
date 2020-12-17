@@ -1,3 +1,5 @@
+package enums;
+
 public enum MonefyButtons {
 
     CHOOSE_CATEGORY_BUTTON ("com.monefy.app.lite:id/keyboard_action_button"),
@@ -10,7 +12,8 @@ public enum MonefyButtons {
     CALCULATOR_DOT_BUTTON("com.monefy.app.lite:id/buttonKeyboardDot"),
     CALCULATOR_MULTIPLY_BUTTON("com.monefy.app.lite:id/buttonKeyboardMultiply"),
     CALCULATOR_DIVIDE_BUTTON("com.monefy.app.lite:id/buttonKeyboardDivide"),
-    BALANCE_BUTTON("com.monefy.app.lite:id/balance_amount");
+    BALANCE_BUTTON("com.monefy.app.lite:id/balance_amount"),
+    PAYMENT_METHOD("com.monefy.app.lite:id/icon");
 
 
 

@@ -1,3 +1,5 @@
+package enums;
+
 public enum MonefyTextFields {
 
     NOTE_TEXT("com.monefy.app.lite:id/textViewNote"),
